@@ -16,5 +16,41 @@
     "name" : "test",
     "latitude" : -22.3320,
     "longitude" : -49.0691
-  }
+  },
+   {
+    "key" : "BARRABONITAPM",
+    "name" : "Barra Bonita Prefeitura",
+    "latitude" : -22.4940,
+    "longitude" : -48.5616
+  },
+  {
+    "key" : "BATATAISPM",
+    "name" : "Batatais Prefeitura",
+    "latitude" : -20.8870,
+    "longitude" : -47.5863
+  },
+  {
+    "key" : "BATATAISDP",
+    "name" : "Batatais Departamento Pessoal",
+    "latitude" : -20.8870,
+    "longitude" : -47.5863
+  },
+  {
+    "key" : "BAURUFUNPREV",
+    "name" : "Bauru Funprev",
+    "latitude" : -22.3320,
+    "longitude" : -49.0691
+  },
+  {
+    "key" : "BEBEDOUROPM",
+    "name" : "Bebedouro Prefeitura",
+    "latitude" :20.9492,
+    "longitude" : -48.4825
+  },
+  {
+    "key" : "BEBEDOUROIMESB",
+    "name" : "Bebedouro IMESB",
+    "latitude" : -20.9381,
+    "longitude" : -48.5023
+  },
 ]
