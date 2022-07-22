@@ -42,12 +42,6 @@
     "longitude" : -49.0691
   },
   {
-    "key" : "BPM",
-    "name" : "Bebedouro Prefeitura",
-    "latitude" :20.9492,
-    "longitude" : -48.4825
-  },
-  {
     "key" : "BIMESB",
     "name" : "Bebedouro IMESB",
     "latitude" : -20.9381,
