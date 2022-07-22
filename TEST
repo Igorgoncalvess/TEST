@@ -1,0 +1,110 @@
+[
+  {
+    "key" : "204",
+    "name" : "Sergipe",
+    "latitude" : -23.5510,
+    "longitude" : -46.6495
+  },
+  {
+    "key" : "igor",
+    "name" : "casa",
+    "latitude" : -23.6481,
+    "longitude" : -46.7907
+  },
+  {
+    "key" : "teste",
+    "name" : "test",
+    "latitude" : -22.3320,
+    "longitude" : -49.0691
+  },
+  {
+    "key" : "BBPM",
+    "name" : "Barra Bonita Prefeitura",
+    "latitude" : -22.4940,
+    "longitude" : -48.5616
+  },
+  {
+    "key" : "BPM",
+    "name" : "Batatais Prefeitura",
+    "latitude" : -20.8870,
+    "longitude" : -47.5863
+  },
+  {
+    "key" : "BDP",
+    "name" : "Batatais Departamento Pessoal",
+    "latitude" : -20.8870,
+    "longitude" : -47.5863
+  },
+  {
+    "key" : "BFUN",
+    "name" : "Bauru Funprev",
+    "latitude" : -22.3320,
+    "longitude" : -49.0691
+  },
+  {
+    "key" : "BPM",
+    "name" : "Bebedouro Prefeitura",
+    "latitude" :20.9492,
+    "longitude" : -48.4825
+  },
+  {
+    "key" : "BIMESB",
+    "name" : "Bebedouro IMESB",
+    "latitude" : -20.9381,
+    "longitude" : -48.5023
+  },
+  {
+      "key" : "BSAAEB",
+    "name" : "Bebedouro Serviço Autonomo de Água e Esgoto de Bebedouro",
+    "latitude" : -20.9481,
+    "longitude" : -48.4888
+  },
+  {
+    "key" : "BSASEMB",
+    "name" : "Bebedouro SASEMB",
+    "latitude" : 20.9492,
+    "longitude" : -48.4825
+  },
+  {
+    "key" : "CPM",
+    "name" : "Cabreúva Prefeitura",
+    "latitude" : -23.3010,
+    "longitude" : -47.1318
+  },
+  {
+    "key" : "CCPM",
+    "name" : "Caçapava Prefeitura",
+    "latitude" : -23.0959,
+    "longitude" : -45.7073
+  },
+  {
+    "key" : "CCPREV",
+    "name" : "Caçapava Previdencia",
+    "latitude" : -23.1014,
+    "longitude" : -45.7102
+  },
+  {
+    "key" : "CCFUSAM",
+    "name" : "Caçapava Fundação de Saúde e Assistência do Município ",
+    "latitude" : -23.1042,
+    "longitude" : -45.7051
+  },
+  {
+    "key" : "CAIPM",
+    "name" : "Caieiras Prefeitura",
+    "latitude" : -23.3656,
+    "longitude" : -46.7495
+  },
+  {
+    "key" : "CAIPREV",
+    "name" : "Caieiras Previdencia",
+    "latitude" : -23.3630,
+    "longitude" : -46.7430
+  },
+  {
+    "key" : "CAJURUPM",
+    "name" : "Cajuru Prefeitura",
+    "latitude" : -21.2772,
+    "longitude" : -47.3041
+  }
+]
