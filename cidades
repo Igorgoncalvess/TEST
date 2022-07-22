@@ -1,0 +1,21 @@
+[
+  {
+    "key" : "204",
+    "name" : "Sergipe",
+    "latitude" : -23.5510,
+    "longitude" : -46.6495
+  },
+  {
+    "key" : "igor",
+    "name" : "casa",
+    "latitude" : -23.6481,
+    "longitude" : -46.7907
+  },
+  {
+    "key" : "teste",
+    "name" : "test",
+    "latitude" : -22.3320,
+    "longitude" : -49.0691,
+  }
+  {
+]
