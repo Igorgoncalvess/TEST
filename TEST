@@ -60,7 +60,7 @@
     "longitude" : -48.4825
   },
   {
-    "key" : "CPM",
+    "key" : "CajuruPref",
     "name" : "Cabreúva Prefeitura",
     "latitude" : -23.3010,
     "longitude" : -47.1318
@@ -100,5 +100,23 @@
     "name" : "Cajuru Prefeitura",
     "latitude" : -21.2772,
     "longitude" : -47.3041
+  },
+  {
+    "key" : "IPMPG",
+    "name" : "Praia Grande Previdencia",
+    "latitude" : -24.0132,
+    "longitude" : -46.4639
+  },
+  {
+    "key" : "SorocabaParque",
+    "name" : "Sorocaba Parque munincipal",
+    "latitude" : -23.4757,
+    "longitude" : -47.4236
+  },
+  {
+    "key" : "TaquaPref",
+    "name" : "Taquaritinga Prefeitura",
+    "latitude" : -21.4068,
+    "longitude" : -48.5001
   }
 ]
