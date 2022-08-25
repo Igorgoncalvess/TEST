@@ -1,7 +1,7 @@
 [
   {
     "key" : "204",
-    "name" : "Sergipe",
+    "name" : "Conam",
     "latitude" : -23.5510,
     "longitude" : -46.6495
   },
@@ -84,7 +84,7 @@
     "longitude" : -45.7051
   },
   {
-    "key" : "CAIPM",
+    "key" : "CaieirasPref",
     "name" : "Caieiras Prefeitura",
     "latitude" : -23.3656,
     "longitude" : -46.7495
@@ -96,7 +96,7 @@
     "longitude" : -46.7430
   },
   {
-    "key" : "CAJURUPM",
+    "key" : "CajuruPref",
     "name" : "Cajuru Prefeitura",
     "latitude" : -21.2772,
     "longitude" : -47.3041
