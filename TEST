@@ -132,6 +132,12 @@
     "longitude" : -48.9074
   },
   {
+    "key" : "OsascoCMT",
+    "name" : "Osasco Companhia de Transporte",
+    "latitude" : -23.5368, 
+    "longitude" : -46.7628
+  },
+  {
     "key" : "SaltoCM",
     "name" : "Salto Câmara",     
     "latitude" : -23.2047,
