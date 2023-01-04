@@ -102,10 +102,46 @@
     "longitude" : -47.3041
   },
   {
+    "key" : "CordeiropolisPref",
+    "name" : "Cordeiropolis Prefeitura",
+    "latitude" : -22.4819,
+    "longitude" : -47.4538
+  },
+  {
+    "key" : "ItapeviPref",
+    "name" : "Itapevi Prefeitura",
+    "latitude" : -23.5361,
+    "longitude" : -46.9393
+  },
+  {
+    "key" : "ItirapinaPref",
+    "name" : "Itirapina Prefeitura",
+    "latitude" : -22.2557,
+    "longitude" : -47.8184
+  },
+  {
     "key" : "IPMPG",
     "name" : "Praia Grande Previdencia",
     "latitude" : -24.0132,
     "longitude" : -46.4639
+  },
+  {
+    "key" : "NovacampinaPref",
+    "name" : "Nova Campina Prefeitura",
+    "latitude" : -24.1193, 
+    "longitude" : -48.9074
+  },
+  {
+    "key" : "SaltoCM",
+    "name" : "Salto Câmara",     
+    "latitude" : -23.2047,
+    "longitude" : -47.2924
+  },
+  {
+    "key" : "SaoCarlosCM",
+    "name" : "São Carlos Câmara",
+    "latitude" : -22.0141,
+    "longitude" : -47.8901
   },
   {
     "key" : "SorocabaParque",
