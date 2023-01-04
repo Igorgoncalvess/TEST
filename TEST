@@ -150,7 +150,7 @@
     "longitude" : -47.4236
   },
   {
-    "key" : "TaquaPref",
+    "key" : "#TaquaPref",
     "name" : "Taquaritinga Prefeitura",
     "latitude" : -21.4068,
     "longitude" : -48.5001
