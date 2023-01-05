@@ -102,6 +102,12 @@
     "longitude" : -47.3041
   },
   {
+    "key" : "CimbajuMFC",
+    "name" : "Cimbaju MFC",
+    "latitude" : -23.3355,
+    "longitude" : -46.7330
+  },
+  {
     "key" : "CordeiropolisPref",
     "name" : "Cordeiropolis Prefeitura",
     "latitude" : -22.4819,
@@ -132,6 +138,12 @@
     "longitude" : -48.9074
   },
   {
+    "key" : "NovacampinaCM",
+    "name" : "Nova Campina Câmara Munincipal",
+    "latitude" : -24.1222,
+    "longitude" : -48.9059
+  },
+  {
     "key" : "OsascoCMT",
     "name" : "Osasco Companhia de Transporte",
     "latitude" : -23.5368, 
@@ -142,6 +154,12 @@
     "name" : "Salto Câmara",     
     "latitude" : -23.2047,
     "longitude" : -47.2924
+  },
+   {
+    "key" : "Satrans",
+    "name" : "Santo André Transportes",     
+    "latitude" : -23.6641,
+    "longitude" : -46.5287
   },
   {
     "key" : "SaoCarlosCM",
