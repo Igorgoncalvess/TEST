@@ -42,6 +42,12 @@
     "longitude" : -49.0691
   },
   {
+    "key" : "BebedouroPref",
+    "name" : "Bebedouro Prefeitura",
+    "latitude" : -20.9484,
+    "longitude" : -48.4823
+  },
+  {
     "key" : "BIMESB",
     "name" : "Bebedouro IMESB",
     "latitude" : -20.9381,
