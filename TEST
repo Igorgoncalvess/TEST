@@ -66,6 +66,12 @@
     "longitude" : -48.4825
   },
   {
+    "key" : "BragancaPref",
+    "name" : "Bragança Prefeitura",
+    "latitude" : -22.9661,
+    "longitude" : -46.5342
+  },
+  {
     "key" : "CabreuvaPref",
     "name" : "Cabreúva Prefeitura",
     "latitude" : -23.3010,
@@ -120,10 +126,22 @@
     "longitude" : -47.4538
   },
   {
+    "key" : "CubataoPrev",
+    "name" : "Cubatão Previdencia",
+    "latitude" : -23.8846,
+    "longitude" : -46.4259
+  },
+  {
     "key" : "ItapeviPref",
     "name" : "Itapevi Prefeitura",
     "latitude" : -23.5361,
     "longitude" : -46.9393
+  },
+ {
+    "key" : "ItaquaPref",
+   "name" : "Itaquaquecetuba Prefeitura Municipal",
+    "latitude" : -23.4787,
+    "longitude" : -46.3531
   },
   {
     "key" : "ItirapinaPref",
@@ -131,11 +149,23 @@
     "latitude" : -22.2557,
     "longitude" : -47.8184
   },
+ {
+    "key" : "LimeiraPref",
+    "name" : "Limeira Prefeitura",
+    "latitude" : -22.5726,
+    "longitude" : -47.4091
+  },
   {
     "key" : "IPMPG",
     "name" : "Praia Grande Previdencia",
     "latitude" : -24.0132,
     "longitude" : -46.4639
+  },
+  {
+    "key" : "MococaPref",
+    "name" : "Mococa Prefeitura",
+    "latitude" : -21.4670, 
+    "longitude" : -47.0026
   },
   {
     "key" : "NovacampinaPref",
@@ -156,10 +186,22 @@
     "longitude" : -46.7628
   },
   {
+    "key" : "PiquetePref",
+    "name" : "Piquete Prefeitura",
+    "latitude" : -22.6164,
+    "longitude" : -45.1715
+  },
+  {
     "key" : "SaltoCM",
     "name" : "Salto Câmara",     
     "latitude" : -23.2047,
     "longitude" : -47.2924
+  },
+  {
+    "key" : "SantacruzPref",
+    "name" : "Santa Cruz da Esperança Prefeitura",
+    "latitude" : -21.2921,
+    "longitude" : -47.4304
   },
    {
     "key" : "Satrans",
@@ -178,6 +220,18 @@
     "name" : "Sorocaba Parque munincipal",
     "latitude" : -23.4757,
     "longitude" : -47.4236
+  },
+  {
+    "key" : "TaubatePref",
+    "name" : "Taubate Previdencia",
+    "latitude" : -23.0247,
+    "longitude" : -45.5558
+  },
+  {
+    "key" : "TietePref",
+    "name" : "Tiete Prefeitura", 
+    "latitude" : -23.0967,
+    "longitude" : -47.7154
   },
   {
     "key" : "#TaquaPref",
