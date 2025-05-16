@@ -17,8 +17,14 @@
     "latitude" : -22.3320,
     "longitude" : -49.0691
   },
+ {
+    "key" : "AlegriaPref",
+    "name" : "Santo Antônio da Alegria Prefeitura",
+    "latitude" : -21.0904,
+    "longitude" : -47.1523
+  },
   {
-    "key" : "BBPM",
+    "key" : "BarraPref",
     "name" : "Barra Bonita Prefeitura",
     "latitude" : -22.4940,
     "longitude" : -48.5616
@@ -35,8 +41,8 @@
     "latitude" : -20.8870,
     "longitude" : -47.5863
   },
-  {
-    "key" : "BFUN",
+ {
+    "key" : "BauruPrev",
     "name" : "Bauru Funprev",
     "latitude" : -22.3320,
     "longitude" : -49.0691
@@ -131,6 +137,30 @@
     "latitude" : -23.8846,
     "longitude" : -46.4259
   },
+ {
+    "key" : "EmbuguacuPref",
+    "name":"Embu Guaçu Prefeitura",
+    "latitude" : -23.8180,
+    "longitude" : -46.8148
+  },
+  {
+    "key" : "FerrazPref",
+    "name" : "Ferraz de Vascocelos Prefeitura",
+    "latitude" : -23.5460,
+    "longitude" : -46.3721
+  },
+  {
+    "key" : "IGARAÇUDOTIETEPM",
+    "name" : "Igaraçu do Tiete Prefeitura",
+    "latitude" : -22.5166,
+    "longitude" : -48.5518
+  },
+{
+    "key" : "ItapevaPref",
+    "name" : "Itapeva Prefeitura",
+    "latitude" : -23.9773,
+    "longitude" : -48.8752
+  },
   {
     "key" : "ItapeviPref",
     "name" : "Itapevi Prefeitura",
@@ -150,6 +180,12 @@
     "longitude" : -47.8184
   },
  {
+    "key" : "ItuPref",
+    "name" : "Itú Prefeitura",
+    "latitude" : -23.3807,
+    "longitude" : -47.3481
+  },
+ {
     "key" : "LimeiraPref",
     "name" : "Limeira Prefeitura",
     "latitude" : -22.5726,
@@ -162,10 +198,28 @@
     "longitude" : -46.4639
   },
   {
+    "key" : "JardimPref",
+    "name" : "Santo Antônio do Jardim Prefeitura ",
+    "latitude" : -22.1134,
+    "longitude" : -46.6834
+  },
+ {
+  "key" : "LencoisPref",
+   "name": "Lençoís Paulista Prefeitura",
+    "latitude" : -22.6029,
+    "longitude" : -48.8023
+  },
+  {
     "key" : "MococaPref",
     "name" : "Mococa Prefeitura",
     "latitude" : -21.4670, 
     "longitude" : -47.0026
+  },
+  {
+    "key" : "MogidascruzesCamara",
+    "name" : "Mogi das Cruzes Câmara Municipal ",
+    "latitude" : -23.5187,
+    "longitude" : -46.1842
   },
   {
     "key" : "NovacampinaPref",
@@ -185,11 +239,29 @@
     "latitude" : -23.5368, 
     "longitude" : -46.7628
   },
+ {
+    "key" : "PraiaPref",
+    "name" : "Praia Grande Prefeitura",
+    "latitude" : -24.0305, 
+    "longitude" : -46.4935
+  },
   {
     "key" : "PiquetePref",
     "name" : "Piquete Prefeitura",
     "latitude" : -22.6164,
     "longitude" : -45.1715
+  },
+  {
+    "key" : "PoaPref",
+    "name" : "Poá Prefeitura",
+    "latitude" : -23.5231,
+    "longitude" : -46.3418
+  },
+ {
+    "key" : "RioclaroPref",
+    "name" : "Rio Claro Prefeitura",
+    "latitude" : -22.4033, 
+    "longitude" : -47.5594
   },
   {
     "key" : "SaltoCM",
@@ -220,6 +292,12 @@
     "name" : "Sorocaba Parque munincipal",
     "latitude" : -23.4757,
     "longitude" : -47.4236
+  },
+{
+    "key" : "TaboaoPref",
+    "name" : "Taboão da serra prefeitura",
+    "latitude" : -23.6061,
+    "longitude" : -46.7583
   },
   {
     "key" : "TaubatePrev",
