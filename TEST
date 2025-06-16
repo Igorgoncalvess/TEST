@@ -84,6 +84,12 @@
     "longitude" : -47.1318
   },
   {
+    "key" : "CacapavaPM",
+    "name" : "Caçapava Prefeitura",
+    "latitude" : -23.0959,
+    "longitude" : -45.7073
+  },
+  {
     "key" : "CCPM",
     "name" : "Caçapava Prefeitura",
     "latitude" : -23.0959,
@@ -144,6 +150,12 @@
     "longitude" : -46.8148
   },
   {
+    "key" : "EmbuguacuCamara",
+    "name":"Embu Guaçu Prefeitura",
+    "latitude" : -23.8299,
+    "longitude" : -46.8139
+  },
+  {
     "key" : "FerrazPref",
     "name" : "Ferraz de Vascocelos Prefeitura",
     "latitude" : -23.5460,
@@ -198,6 +210,12 @@
     "longitude" : -46.4639
   },
   {
+    "key" : "JandiraPref",
+    "name" : "Jandira Prefeitura",
+    "latitude" : -23.5276,
+    "longitude" : -46.8985
+  },
+  {
     "key" : "JardimPref",
     "name" : "Santo Antônio do Jardim Prefeitura ",
     "latitude" : -22.1134,
@@ -208,6 +226,12 @@
    "name": "Lençoís Paulista Prefeitura",
     "latitude" : -22.6029,
     "longitude" : -48.8023
+  },
+ {
+    "key" : "MairiporaPref",
+    "name" : "Mairiporã Prefeitura",
+    "latitude" : -23.3210, 
+    "longitude" : -46.5863
   },
   {
     "key" : "MococaPref",
