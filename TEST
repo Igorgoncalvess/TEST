@@ -282,6 +282,12 @@
     "longitude" : -46.3418
   },
  {
+    "key" : "PortoFerreiraPref",
+    "name" : "Porto Ferreira Prefeitura",
+    "latitude" : -21.8526,
+    "longitude" : -47.4796
+  },
+ {
     "key" : "RioclaroPref",
     "name" : "Rio Claro Prefeitura",
     "latitude" : -22.4033, 
